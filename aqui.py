@@ -1,0 +1,2 @@
+item = banana
+print (item)
