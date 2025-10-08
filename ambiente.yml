@@ -1,0 +1,9 @@
+name: ambiente-azureml
+dependencies:
+  - python=3.8
+  - scikit-learn
+  - pandas
+  - pip:
+      - azureml-core
+      - azureml-defaults
+      - mlflow

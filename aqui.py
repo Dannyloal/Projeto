@@ -1,2 +1,0 @@
-item = banana
-print (item)
