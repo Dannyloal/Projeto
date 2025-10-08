@@ -19,8 +19,3 @@ Criar um modelo de regressão linear capaz de prever as vendas de sorvetes com b
 
 ## 📈 Resultados
 O modelo obteve excelente desempenho, apresentando um erro médio quadrático baixo nas previsões de vendas.
-
-## 💡 Possibilidades Futuras
-- Incluir variáveis como umidade, dia da semana e feriados.
-- Testar outros algoritmos de regressão.
-- Implantar o modelo em um endpoint web para previsões em tempo real.
